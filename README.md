@@ -1,2 +1,2 @@
-# Calender-App-
+# Calendar-App-
 For our programming endeavors
